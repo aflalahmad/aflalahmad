@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 🔭 Terraform Projects: Developing and managing Azure resources, including virtual machines, virtual networks, and more.(https://github.com/aflalahmad/terraform-project)
 🌐 Hub and Spoke Architectures: Implementing and optimizing hub and spoke network designs in Azure.(https://github.com/aflalahmad/terraform-hub-and-spoke)).
 
-- 💬 Ask me about ...
+
 - 📫 How to reach me :
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aflalahmadav/) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/aflalahmad)
 
