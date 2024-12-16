@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋 , I'm Aflal Ahmad</h1>
 
-<h3 align="center"> Cloud Engineer Intern @ CloudSlize </h3>
+<h3 align="center"> Cloud Engineer @ CloudSlize </h3>
 <img align="right" width="200" height="200" src="https://smeoncloud.in/wp-content/uploads/2022/03/What-is-cloud-computing-1.gif">
 
 
