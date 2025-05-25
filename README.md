@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 - About Me 🙋‍♂️
 
-> I am a motivated Cloud Engineering Intern with a strong focus on mastering Microsoft Azure. Currently, I am interning at CloudSlize, where I am honing my skills in Azure deployment, management, and optimization. I am particularly excited about working on real-time projects and eager to leverage my hands-on experience to contribute to innovative cloud solutions. I look forward to learning from industry professionals while applying my skills to make a meaningful impact in the field.
+> I'm a motivated Cloud Engineer focused on mastering Microsoft Azure. Currently interning at CloudSlize, I'm gaining hands-on experience in deploying, managing, and optimizing cloud infrastructure. I’m passionate about working on real-time projects and contributing to innovative cloud solutions. Eager to keep learning and growing alongside industry professionals.
 
 
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 🌱What I’m Learning:
 🌱 Microsoft Azure: Diving into Azure services and configurations.
 📜 Terraform: Writing and optimizing Terraform scripts for Azure deployments.
+📊 Microsoft Fabric: Exploring data engineering and analytics using Microsoft Fabric.
 
 - ⚡What I’m Working On:
 🔭 Terraform Projects: Developing and managing Azure resources, including virtual machines, virtual networks, and more.(https://github.com/aflalahmad/terraform-project)
