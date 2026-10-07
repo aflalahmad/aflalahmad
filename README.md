@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 - About Me 🙋‍♂️
 
-> I'm a motivated Cloud Engineer focused on mastering Microsoft Azure. Currently interning at CloudSlize, I'm gaining hands-on experience in deploying, managing, and optimizing cloud infrastructure. I’m passionate about working on real-time projects and contributing to innovative cloud solutions. Eager to keep learning and growing alongside industry professionals.
+> I'm a motivated Cloud Engineer focused on mastering Microsoft Azure. Currently interning at Connected Safety Net, I'm gaining hands-on experience in deploying, managing, and optimizing cloud infrastructure. I’m passionate about working on real-time projects and contributing to innovative cloud solutions. Eager to keep learning and growing alongside industry professionals.
 
 
 
