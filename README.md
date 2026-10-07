@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋 , I'm Aflal Ahmad</h1>
 
-<h3 align="center"> Cloud Engineer @ CloudSlize </h3>
+<h3 align="center"> Cloud Engineer @ Connected Safety Net </h3>
 <img align="right" width="200" height="200" src="https://smeoncloud.in/wp-content/uploads/2022/03/What-is-cloud-computing-1.gif">
 
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on CloudSlize.
+- 🔭 I’m currently working on Connected safety Net.
 - 🌱What I’m Learning:
 🌱 Microsoft Azure: Diving into Azure services and configurations.
 📜 Terraform: Writing and optimizing Terraform scripts for Azure deployments.
